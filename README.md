@@ -96,3 +96,6 @@ The calculator includes three main responsive breakpoints: mobile devices up to 
 Browser Compatibility
 The application works in all modern web browsers that support ES6 JavaScript features including const and let declarations, arrow functions, and modern DOM manipulation methods. The CSS uses standard properties that are supported in all modern browsers.
 
+Screenshot
+<img width="764" height="676" alt="image" src="https://github.com/user-attachments/assets/af3a6586-0cd0-4e7c-9731-581e857c37ca" />
+
